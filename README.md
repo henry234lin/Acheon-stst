@@ -1,7 +1,7 @@
 # Predict Future Sales Model Card
 
 ### Basic Information
-* **Group member names and emails**: Andrew Cheon , `andrewcheon@gwu.edu`
+* **Group member names and emails**: Andrew Cheon , `andrewcheon@gwu.edu`, Henry Lin, 'henry.lin@gwmail.gwu.edu'
 * **Model date**: November, 2025
 * **Model version**: 1.0
 * **License**: MIT
